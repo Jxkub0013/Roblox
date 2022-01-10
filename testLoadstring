@@ -1,2 +1,1 @@
-local a = "PineapplesOnPizza"
-print(a)
+a = "PineapplesOnPizza"
